@@ -1,5 +1,5 @@
 996.ICU
-===
+=======
 
 ## Was ist "996"?
 "996"-Arbeitsmuster bezieht sich auf ein inoffizielles Arbeitsverhalten (9 - 21 Uhr, 6 Tage pro Woche), das immer haufiger erscheint.
